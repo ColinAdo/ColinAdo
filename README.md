@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ColinAdo
 - 👀 I’m interested in ful-stack dev.
-- 💞️ In season of prepaation 
+- 💞️ In season of preparation 
 - 📫 Reach me through colinadodev@gmail.com.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 🌱 I’m currently learning backend & some frontend -->
