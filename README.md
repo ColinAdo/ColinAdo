@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ColinAdo
-- 👀 I’m interested in Backend dev.
+- 👀 I’m interested in Software Development.
 - 💞️ In season of preparation 
 - 📫 Reach me through colinadodev@gmail.com.
 <!-- - 💞️ I’m looking to collaborate on ... -->
