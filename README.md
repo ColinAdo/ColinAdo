@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ColinAdo
 - 👀 I’m interested in Software Development.
 - 💞️ In season of preparation 
-- 📫 Reach me through colinadodev@gmail.com.
+- 📫 Reach me through colinadodev@gmail.com or colinadore30@gmail.com.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 🌱 I’m currently learning backend & some frontend -->
 
